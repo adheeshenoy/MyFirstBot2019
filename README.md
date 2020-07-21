@@ -2,18 +2,13 @@
 Try it out!
 https://adheeshenoy.github.io/MyFirstBot2019/.
 
-A basic chat bot to practice with to perfect coding with Javascript, HTML and CSS
-Note: It has only been tested on chrome. 
+A basic chat bot to practice coding using Javascript, HTML and CSS
+Note: It only works for chrome. 
 
-The following code is a ongoing project. It help me as a programming learn more about webdevelopment tools and also helps
-me learn about new APIs. 
-
-To do list
+Future iterations:
 - Add capability to remember microphone permissions
 - Improve chat box interface to a scrolling format as compared to the appending format right now.
-- Add dark mode
 - Add music playing capabilities using apples MusicKit
 - Add time based communications. Example: What is the time? ...
 - Learn new ways to answer unknow questions
 - Make it cross-browser compatible
-- Check grammar errors in responses
